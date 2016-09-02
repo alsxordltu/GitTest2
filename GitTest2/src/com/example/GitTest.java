@@ -8,7 +8,7 @@ public class GitTest {
 		System.out.println("안물");
 		System.out.println("노예ffgargeg");
 
-		System.out.println("오오오오오오ㅗsdfdfsdf!dfdfsdf!!!!!!!!!!!!!222222222222222222222222222222!!");
+		System.out.println("오오오오오오ㅗsdfdddfsdf!dfdfsdf!!!!!!!!!!!!!222222222222222222222222222222!!");
 		
 		
 		System.out.println("gdgdgd");
