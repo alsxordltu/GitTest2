@@ -8,7 +8,7 @@ public class GitTest {
 		System.out.println("안물");
 		System.out.println("노예");
 		System.out.println("오오오오오오ㅗ오옹오옹옹!!!!!!!!!!!!!!!!");
-		
+		System.out.println("안물2222");
 		
 	}
 
