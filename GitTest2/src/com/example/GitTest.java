@@ -7,6 +7,8 @@ public class GitTest {
 		System.out.println("내가 팀장이다.");
 		System.out.println("안물");
 		System.out.println("노예");
+		System.out.println("오오오오오오ㅗ오옹오옹옹!!!!!!!!!!!!!!!!");
+		
 		
 	}
 
